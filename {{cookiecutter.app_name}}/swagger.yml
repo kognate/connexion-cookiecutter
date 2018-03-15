@@ -1,7 +1,7 @@
 swagger: '2.0'
 info:
   title: {{cookiecutter.app_title}}
-  version: "{{cookiecutter.app_version"
+  version: "{{cookiecutter.app_version}}"
 basePath: {{cookiecutter.app_base_path}}
 host: {{cookiecutter.app_host}}
 schemes:
